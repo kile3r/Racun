@@ -1,1 +1,8 @@
 C:\Users\Kristijan\Documents\GitHub\Racunica\Racunica\bin\Debug\Racunica.exe.config
+C:\Users\Kristijan\Documents\GitHub\Racunica\Racunica\bin\Debug\Racunica.exe
+C:\Users\Kristijan\Documents\GitHub\Racunica\Racunica\bin\Debug\Racunica.pdb
+C:\Users\Kristijan\Documents\GitHub\Racunica\Racunica\obj\Debug\Racunica.csprojResolveAssemblyReference.cache
+C:\Users\Kristijan\Documents\GitHub\Racunica\Racunica\obj\Debug\Racunica.Properties.Resources.resources
+C:\Users\Kristijan\Documents\GitHub\Racunica\Racunica\obj\Debug\Racunica.csproj.GenerateResource.Cache
+C:\Users\Kristijan\Documents\GitHub\Racunica\Racunica\obj\Debug\Racunica.exe
+C:\Users\Kristijan\Documents\GitHub\Racunica\Racunica\obj\Debug\Racunica.pdb
